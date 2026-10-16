@@ -1,0 +1,13 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Local cookie copies / data
+cookies.sqlite*
+*.sqlite-wal
+*.sqlite-shm
+
+# Editors / OS
+.venv/
+.DS_Store
